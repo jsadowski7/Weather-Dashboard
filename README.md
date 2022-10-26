@@ -27,5 +27,5 @@ Click the URL link below to visit the application. Input a city name to view the
 
 ### Link To Application ###
 
-[Application-Link] 
+[Application-Link] https://jsadowski7.github.io/Weather-Dashboard/
 

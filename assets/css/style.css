@@ -22,3 +22,15 @@ span {
 li:hover {
     background-color: lightcoral;
 }
+
+.container {
+    background-color: lightgray;
+}
+
+.jumbotron {
+    background-color: darkgrey;
+}
+
+.col-sm-12 {
+    background-color: darkgrey;
+}
